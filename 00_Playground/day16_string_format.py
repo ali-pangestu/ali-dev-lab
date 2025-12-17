@@ -18,4 +18,4 @@ print(f"| {barang:<10} | {harga:>10} |")
 print(f"| {'Gula':<10} | {15000:>10} |") 
 print(f"| {'Total':<10} | {40000:>10} |")
 
-# Tips: Perhatikan outputnya di terminal, jadi lurus kan ya?
+# Tips: Perhatikan outputnya di terminal, jadi lurus kan?
