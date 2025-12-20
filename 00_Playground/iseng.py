@@ -9,3 +9,5 @@ print("Tabungan sekarang" , tabungan)
 # 3. Update lagi
 tabungan = tabungan + 50
 print("Tabungan total" , tabungan)
+
+# Udah paham kan ya?
