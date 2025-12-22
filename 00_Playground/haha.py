@@ -1,0 +1,1 @@
+print("hai broo ayo berangkat kerja")
