@@ -4,3 +4,4 @@ print("hai broo ayo berangkat kerja")
 jam_kerja = 04.00
 print("Jam berapa berangkat kerja, Sayang?" , jam_kerja)
 print("telatt woii")
+print("With God, this time my turn. Letss Gooo!!")
