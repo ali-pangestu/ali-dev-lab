@@ -7,3 +7,4 @@ print("telatt woii")
 print("With God, this time my turn. Letss Gooo!!")
 
 print("Hii Im back, sorry my focuss is missing")
+print("Nantii pulang kerja belajar korea")
